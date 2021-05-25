@@ -1,0 +1,16 @@
+body{background-color: #708090}
+div{
+	background-color: #6262DC;
+	color: #ffff;
+}
+#listadevasos{
+	list-style:none;
+	margin: 0;
+	padding: 0;
+}
+#pedirvaso{
+	color: #ffff;
+}
+#enstock{
+	color: #ffff;
+}
