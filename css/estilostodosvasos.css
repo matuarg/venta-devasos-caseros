@@ -26,3 +26,11 @@ body{background-color: #708090}
 	margin: o;
 	padding: 0;
 }
+#dvasosmanija{
+	background-color: #6262cd;
+}
+#listavm{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
